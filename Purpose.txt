@@ -1,0 +1,7 @@
+This project is created for learning typescript for beginners.
+I have also started exploring the typescript recently.
+Anyone can please come and update the respositpory and tell us how to 
+write the good code in typescript.
+
+----------
+Thanks
